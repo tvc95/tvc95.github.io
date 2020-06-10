@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Thiago Viana de Carvalho - Home Page
+description: tvc95.github.io
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
