@@ -1,7 +1,7 @@
 ---
 layout: null
-title: Thiago Viana de Carvalho
-description: tvc95.github.io
+title: Thiago Viana de Carvalho - Home Page
+description: Welcome to my website!
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
@@ -16,10 +16,9 @@ sitemap:
 -->
 <html>
 	<head>
-    {% include head.html %}
-
-
+    	{% include head.html %}
 	</head>
+
 	<body class="is-loading">
 
 		<!-- Wrapper -->
@@ -27,7 +26,7 @@ sitemap:
 
 				<!-- Intro -->
 					<div id="intro">
-            <h1>{{site.title}}</h1>
+            			<h1>{{site.title}}</h1>
 						<h2>Welcome to my website</h2>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
@@ -41,9 +40,7 @@ sitemap:
 
 				<!-- Nav -->
 					<nav id="nav">
-
-            {% include nav.html %}
-
+            			{% include nav.html %}
 					</nav>
 
 				<!-- Main -->
@@ -54,10 +51,10 @@ sitemap:
 									<h2><a href="#">About me</a></h2>
 								</header>
 								<a href="#" class="image main"><img src="{{ "/images/my-img.JPG" | absolute_url }}" alt="" /></a>
-                <p>Bachelor in Computer Science (2017) and Master in Informatics (2020) by Federal University of Paraíba (UFPB), curious and passionate about learning software development in games, mobile and web applications with great design. Most of my previous experience is with game development and prototyping using various engines such as Unity, GameMaker, RPG Maker XP and Construct2.</p>
-                <p>I've Started learning to develop small game prototypes since 2009 using smaller scale engines such as RMXP and I've also been participating in events such as Global Game Jam. I'm always thriving to improve myself by pursuing new skills such as art, music and project management, and currently I'm exploring the world of mobile and web development technologies such as React Native, for example.</p>
-                <p>Over the last couple years, I worked in a couple of Android game projects at some research laboratories at UFPB such as the Group of Applied Computational Intelligence (GICA), the Laboratory of Ubiquitous and Mobile Computing (LUMO) and the Laboratory of Technologies for Virtual Teaching and Statistics (LabTEVE).</p>
-                <p>Check some of the projects I've worked on below!</p>
+                				<p>Bachelor in Computer Science (2017) and Master in Informatics (2020) by Federal University of Paraíba (UFPB), curious and passionate about learning software development in games, mobile and web applications with great design. Most of my previous experience is with game development and prototyping using various engines such as Unity, GameMaker, RPG Maker XP and Construct2.</p>
+                				<p>I've Started learning to develop small game prototypes since 2009 using smaller scale engines such as RMXP and I've also been participating in events such as Global Game Jam. I'm always thriving to improve myself by pursuing new skills such as art, music and project management, and currently I'm exploring the world of mobile and web development technologies such as React Native, for example.</p>
+                				<p>Over the last couple years, I worked in a couple of Android game projects at some research laboratories at UFPB such as the Group of Applied Computational Intelligence (GICA), the Laboratory of Ubiquitous and Mobile Computing (LUMO) and the Laboratory of Technologies for Virtual Teaching and Statistics (LabTEVE).</p>
+                				<p>Check some of the projects I've worked on below!</p>
 
 							</article>
 
@@ -76,8 +73,9 @@ sitemap:
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
-                  <article>
+				  {% if mod3 == 0 %}
+				  
+                  				<article>
   									<header>
   										<h2><a href="#">Sponsored</a></h2>
   									</header>
@@ -90,21 +88,21 @@ sitemap:
 
 						<!-- Footer -->
 							<footer>
-                <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-                </ul>
+								<ul class="actions">
+									<li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+								</ul>
 							</footer>
 
 					</div>
 
 				<!-- Footer -->
-        {% include foot.html %}
+        		{% include foot.html %}
 
 			</div>
 
 		<!-- Scripts -->
 		{% include scripts-main.html %}
-    {% include tracking.html %}
+    	{% include tracking.html %}
 
 	</body>
 </html>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Thiago Viana de Carvalho - Home Page
+title: Thiago Viana de Carvalho - Projects
 description: tvc95.github.io
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2020-06-15
     changefreq: weekly
 ---
 ## About our Site

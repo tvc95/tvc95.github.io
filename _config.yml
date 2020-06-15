@@ -13,8 +13,9 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:            default
 facebook:           default
-instagram:          default
-github:             default
+instagram:          "thiago.v.carvalho"
+github:             "tvc95/"
+linkedin:           "in/thiagovcarvalho/"
 
 # personal
 location:           Los Angeles, CA
