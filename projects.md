@@ -9,7 +9,7 @@ sitemap:
 ---
 <header class="major"><h2>Projects</h2></header>
 
-<i>Check out some of the projects I've worked on below</i>
+<i style="text-align:center">Check out some of the projects I've worked on below</i>
 
 ## [2019] Caixa de Pandora - VR edition (in development)
 
