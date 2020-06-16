@@ -9,9 +9,11 @@ sitemap:
 ---
 <header class="major"><h2>Projects</h2></header>
 
+<i>Check out some of the projects I've worked on below</i>
+
 ## [2019] Caixa de Pandora - VR edition (in development)
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/ss_caixarv.png" | absolute_url }}" alt="" /></span>
 
 The development of this prototype was part of my master's thesis. A VR approach of the educational serious game Caixa de Pandora ("Pandora's Box" in English) was developed by using 360º scenarios (videos and images). The original approach was developed by the Laboratory of Technologies for Virtual Teaching and Statistics (LabTEVE) at Federal University of Paraíba (UFPB), and consists of an educational quiz game that aims to address the issue of violence against women (VAW), not only by transmitting the concepts related to VAW, but also attempts to make the players reflect about their own personal conceptions in face of this problem.
 
@@ -19,9 +21,11 @@ This prototype was develped by using Unity (v. 2019.1.1f1) with Google VR SDK fo
 
 ## [2019] Recruta Social
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/ss_recrutasocial.png" | absolute_url }}" alt="" /></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligula eleifend laoreet vitae eget libero. Cras at ante dui. Curabitur placerat congue nunc, sit amet faucibus lectus suscipit in. Aliquam accumsan gravida aliquam. Sed at ex scelerisque, sodales lorem ac, sollicitudin mauris. Nullam vel dictum libero, a pellentesque augue. Etiam viverra sapien ac erat laoreet faucibus ac sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ullamcorper consequat metus, fermentum tempus magna tincidunt ut. Nullam erat diam, vestibulum eu orci nec, rutrum eleifend lectus. Integer volutpat ultricies egestas. Donec vitae urna ac turpis lacinia vestibulum. Proin eget justo enim. Quisque vitae magna dictum, volutpat neque eu, placerat nisl.
+Recruta Social ("Social Recruit" in English) was the result of a collaboration between the Tribunal de Contas do Estado da Paraíba (TCE-PB) and the Laboratory of Digital Video Applications (LAVID-UFPB) and it consists of an adventure serious game that aims to teach the role of the State Court of Auditors in the citizens' lives, in addition to encourage the practice of social control by the players. The main focus of gameplay is to accomplish missions by solving problems faced by the citizens, caused by poor public management and the irregular use of public resources. For that, the player must explore the environment and interact with the citizens and key items hidden in the stage.
+
+This game was developed with the Unity engine and it's already available for Android smartphones (v. 4.4 or newer) at Google Play Store. This game was also finalist in three categories during the SBGames 2019 Games Festival at Rio de Janeiro: "Best Student Game", "Best Serious Game" and "Best Mobile Game". You can check it out [here](https://play.google.com/store/apps/details?id=com.tce.recrutasocial).
 
 ## [2017] Desafio Solar / Eletrogame
 
