@@ -9,13 +9,13 @@ sitemap:
 ---
 <header class="major"><h2>Projects</h2></header>
 
-## Projects
+## [2019] Caixa de Pandora - VR edition (in development)
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+The development of this prototype was part of my master's thesis. A VR approach of the educational serious game Caixa de Pandora ("Pandora's Box" in English) was developed by using 360º scenarios (videos and images). The original approach was developed by the Laboratory of Technologies for Virtual Teaching and Statistics (LabTEVE) at Federal University of Paraíba (UFPB), and consists of an educational quiz game that aims to address the issue of violence against women (VAW), not only by transmitting the concepts related to VAW, but also attempts to make the players reflect about their own personal conceptions in face of this problem.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+This prototype was develped by using Unity (v. 2019.1.1f1) with Google VR SDK for Unity, and is still in development. However, the original version is available for Android systems at Google Play Store, and you can find out more [here](https://play.google.com/store/apps/details?id=br.ufpb.labteve.caixapandora&hl=pt_BR).
 
 ### Content is Imortant
 <div class="box">
