@@ -7,7 +7,9 @@ sitemap:
     lastmod: 2020-06-15
     changefreq: weekly
 ---
-## About our Site
+<header class="major"><h2>Projects</h2></header>
+
+## Projects
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
