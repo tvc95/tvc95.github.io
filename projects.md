@@ -17,7 +17,6 @@ The development of this prototype was part of my master's thesis. A VR approach 
 
 This prototype was develped by using Unity (v. 2019.1.1f1) with Google VR SDK for Unity, and is still in development. However, the original version is already available for Android systems at Google Play Store, and you can find out more [here](https://play.google.com/store/apps/details?id=br.ufpb.labteve.caixapandora&hl=pt_BR).
 
-<section class="posts">
 
 ## [2019] Recruta Social
 
@@ -25,9 +24,6 @@ This prototype was develped by using Unity (v. 2019.1.1f1) with Google VR SDK fo
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligula eleifend laoreet vitae eget libero. Cras at ante dui. Curabitur placerat congue nunc, sit amet faucibus lectus suscipit in. Aliquam accumsan gravida aliquam. Sed at ex scelerisque, sodales lorem ac, sollicitudin mauris. Nullam vel dictum libero, a pellentesque augue. Etiam viverra sapien ac erat laoreet faucibus ac sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ullamcorper consequat metus, fermentum tempus magna tincidunt ut. Nullam erat diam, vestibulum eu orci nec, rutrum eleifend lectus. Integer volutpat ultricies egestas. Donec vitae urna ac turpis lacinia vestibulum. Proin eget justo enim. Quisque vitae magna dictum, volutpat neque eu, placerat nisl.
 
-</section>
-
-<section class="posts">
 
 ## [2017] Desafio Solar / Eletrogame
 
@@ -35,9 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligu
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligula eleifend laoreet vitae eget libero. Cras at ante dui. Curabitur placerat congue nunc, sit amet faucibus lectus suscipit in. Aliquam accumsan gravida aliquam. Sed at ex scelerisque, sodales lorem ac, sollicitudin mauris. Nullam vel dictum libero, a pellentesque augue. Etiam viverra sapien ac erat laoreet faucibus ac sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ullamcorper consequat metus, fermentum tempus magna tincidunt ut. Nullam erat diam, vestibulum eu orci nec, rutrum eleifend lectus. Integer volutpat ultricies egestas. Donec vitae urna ac turpis lacinia vestibulum. Proin eget justo enim. Quisque vitae magna dictum, volutpat neque eu, placerat nisl.
 
-</section>
-
-<section class="posts">
 
 ## [2017] S.A.I.L (Stream Audio Interpreter for Ludicity)
 
@@ -45,18 +38,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligu
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligula eleifend laoreet vitae eget libero. Cras at ante dui. Curabitur placerat congue nunc, sit amet faucibus lectus suscipit in. Aliquam accumsan gravida aliquam. Sed at ex scelerisque, sodales lorem ac, sollicitudin mauris. Nullam vel dictum libero, a pellentesque augue. Etiam viverra sapien ac erat laoreet faucibus ac sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ullamcorper consequat metus, fermentum tempus magna tincidunt ut. Nullam erat diam, vestibulum eu orci nec, rutrum eleifend lectus. Integer volutpat ultricies egestas. Donec vitae urna ac turpis lacinia vestibulum. Proin eget justo enim. Quisque vitae magna dictum, volutpat neque eu, placerat nisl.
 
-</section>
-
-<section class="posts">
 
 ## [2014] Devastitans
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligula eleifend laoreet vitae eget libero. Cras at ante dui. Curabitur placerat congue nunc, sit amet faucibus lectus suscipit in. Aliquam accumsan gravida aliquam. Sed at ex scelerisque, sodales lorem ac, sollicitudin mauris. Nullam vel dictum libero, a pellentesque augue. Etiam viverra sapien ac erat laoreet faucibus ac sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ullamcorper consequat metus, fermentum tempus magna tincidunt ut. Nullam erat diam, vestibulum eu orci nec, rutrum eleifend lectus. Integer volutpat ultricies egestas. Donec vitae urna ac turpis lacinia vestibulum. Proin eget justo enim. Quisque vitae magna dictum, volutpat neque eu, placerat nisl.
-
-</section>
-
 
 <!-- ### Content is Imortant
 <div class="box">
