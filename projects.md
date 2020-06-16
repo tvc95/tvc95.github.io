@@ -17,7 +17,7 @@ The development of this prototype was part of my master's thesis. A VR approach 
 
 This prototype was develped by using Unity (v. 2019.1.1f1) with Google VR SDK for Unity, and is still in development. However, the original version is already available for Android systems at Google Play Store, and you can find out more [here](https://play.google.com/store/apps/details?id=br.ufpb.labteve.caixapandora&hl=pt_BR).
 
-<section>
+<section class="posts">
 
 ## [2019] Recruta Social
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligu
 
 </section>
 
-<section>
+<section class="posts">
 
 ## [2017] Desafio Solar / Eletrogame
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligu
 
 </section>
 
-<section>
+<section class="posts">
 
 ## [2017] S.A.I.L (Stream Audio Interpreter for Ludicity)
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligu
 
 </section>
 
-<section>
+<section class="posts">
 
 ## [2014] Devastitans
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
