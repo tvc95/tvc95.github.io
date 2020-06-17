@@ -21,7 +21,7 @@ This prototype was develped by using Unity (v. 2019.1.1f1) with Google VR SDK fo
 
 ## [2019] Recruta Social
 
-<a href="https://youtu.be/7Aq0b_pwDIg"><span class="image left"><img src="{{ "/images/ssrecrutasocial.png" | absolute_url }}" alt="" /></span></a>
+<a href="https://youtu.be/7Aq0b_pwDIg" class="image left"><img src="{{ "/images/ssrecrutasocial.png" | absolute_url }}" alt="" /></a>
 
 Recruta Social ("Social Recruit" in English) was the result of a collaboration between the Tribunal de Contas do Estado da Paraíba (TCE-PB) and the Laboratory of Digital Video Applications (LAVID-UFPB) and it consists of an adventure serious game that aims to teach the role of the State Court of Auditors in the citizens' lives, in addition to encourage the practice of social control by the players. The main focus of its gameplay is to accomplish missions by solving problems faced by the citizens, caused by poor public management and the irregular use of public resources. For that, the player must explore the environment and interact with the citizens and key items hidden in the stage.
 
@@ -35,13 +35,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligu
 
 ## [2017] S.A.I.L (Stream Audio Interpreter for Ludicity)
 
-<a href="https://youtu.be/EoN2Vm4uGJM"><span class="image left"><img src="{{ "/images/sssail.png" | absolute_url }}" alt="" /></span></a>
+<a href="https://youtu.be/EoN2Vm4uGJM" class="image left"><img src="{{ "/images/sssail.png" | absolute_url }}" alt="" /></a>
 
 S.A.I.L (a.k.a "Stream Audio Interpreter for Ludicity") is a PC game developed with Unity during the Global Game Jam 2017, combining retro visuals, music, meteors and survival. Sailing in the seas, you must survive at all costs by preventing the boat to sink by the waves and avoid total destruction from falling meteors. Choose any music file to play the game! The ocean waves are influenced by the music you choose! (Just .ogg and .wav audio files are supported. If you have any other audio file, you must convert it to .ogg and .wav). You can download and play it, as well as check out some other games developed at other GGJ events [at my GGJ profile](https://globalgamejam.org/users/velvetrage).
 
 ## [2015] Devastitans
 
-<a href="https://youtu.be/fNfCZitzqCA" class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></a>
+<a href="https://youtu.be/fNfCZitzqCA" class="image left"><img src="{{ "/images/ssdevas.png" | absolute_url }}" alt="" /></a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligula eleifend laoreet vitae eget libero. Cras at ante dui. Curabitur placerat congue nunc, sit amet faucibus lectus suscipit in. Aliquam accumsan gravida aliquam. Sed at ex scelerisque, sodales lorem ac, sollicitudin mauris. Nullam vel dictum libero, a pellentesque augue. Etiam viverra sapien ac erat laoreet faucibus ac sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ullamcorper consequat metus, fermentum tempus magna tincidunt ut. Nullam erat diam, vestibulum eu orci nec, rutrum eleifend lectus. Integer volutpat ultricies egestas. Donec vitae urna ac turpis lacinia vestibulum. Proin eget justo enim. Quisque vitae magna dictum, volutpat neque eu, placerat nisl.
 
