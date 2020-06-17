@@ -21,7 +21,7 @@ This prototype was develped by using Unity (v. 2019.1.1f1) with Google VR SDK fo
 
 ## [2019] Recruta Social
 
-<a href="https://youtu.be/7Aq0b_pwDIg" class="image left"><img src="{{ "/images/ssrecrutasocial.png" | absolute_url }}" alt="" /></a>
+<a href="https://youtu.be/7Aq0b_pwDIg" class="image left" style="overflow:visible"><img src="{{ "/images/ssrecrutasocial.png" | absolute_url }}" alt="" /></a>
 
 Recruta Social ("Social Recruit" in English) was the result of a collaboration between the Tribunal de Contas do Estado da Paraíba (TCE-PB) and the Laboratory of Digital Video Applications (LAVID-UFPB) and it consists of an adventure serious game that aims to teach the role of the State Court of Auditors in the citizens' lives, in addition to encourage the practice of social control by the players. The main focus of its gameplay is to accomplish missions by solving problems faced by the citizens, caused by poor public management and the irregular use of public resources. For that, the player must explore the environment and interact with the citizens and key items hidden in the stage.
 
@@ -29,29 +29,31 @@ This game was developed with the Unity engine and it's already available for And
 
 ## [2017] Desafio Solar / Eletrogame
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<a href="https://youtu.be/lFt-2_nSeSg" class="image left" style="overflow:visible"><img src="{{ "/images/ssdesafio.png" | absolute_url }}" alt="" /></a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligula eleifend laoreet vitae eget libero. Cras at ante dui. Curabitur placerat congue nunc, sit amet faucibus lectus suscipit in. Aliquam accumsan gravida aliquam. Sed at ex scelerisque, sodales lorem ac, sollicitudin mauris. Nullam vel dictum libero, a pellentesque augue. Etiam viverra sapien ac erat laoreet faucibus ac sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ullamcorper consequat metus, fermentum tempus magna tincidunt ut. Nullam erat diam, vestibulum eu orci nec, rutrum eleifend lectus. Integer volutpat ultricies egestas. Donec vitae urna ac turpis lacinia vestibulum. Proin eget justo enim. Quisque vitae magna dictum, volutpat neque eu, placerat nisl.
+With the objective of introducing concepts of converting solar energy into electricity to high school students from public schools, as well as concepts related to electrical installations, this joint effort between the Center of Alternative and Renewable Energies (CEAR-UFPB) and the State Secretariat of Education of Paraíba (SEE-PB) resulted in the development of two serious games aiming to encourage student learning in a more practical and playful way. Both games were developed with the Unity engine for Android tablets given by the government.
+
+"Desafio Solar" ("Solar Challenge" in English) focused on the teaching of photovoltaic systems by providing an environment where the students could experiment and learn with a virtual photovoltaic system, without any risk of handling and damage to a physical photovoltaic system. Through the game, the student deals with basic concepts about the components of the solar energy system interactively, assimilating them before the physical kit is presented in the classroom. The other game developed, "Eletrogame", was focused on the teaching of electrical installations and it was conceived with the same basis as "Desafio Solar". Both games were released in 2017 to students of public schools of the state of Paraíba, Brazil.
 
 ## [2017] S.A.I.L (Stream Audio Interpreter for Ludicity)
 
-<a href="https://youtu.be/EoN2Vm4uGJM" class="image left"><img src="{{ "/images/sssail.png" | absolute_url }}" alt="" /></a>
+<a href="https://youtu.be/EoN2Vm4uGJM" class="image left" style="overflow:visible"><img src="{{ "/images/sssail.png" | absolute_url }}" alt="" /></a>
 
 S.A.I.L (a.k.a "Stream Audio Interpreter for Ludicity") is a PC game developed with Unity during the Global Game Jam 2017, combining retro visuals, music, meteors and survival. Sailing in the seas, you must survive at all costs by preventing the boat to sink by the waves and avoid total destruction from falling meteors. Choose any music file to play the game! The ocean waves are influenced by the music you choose! (Just .ogg and .wav audio files are supported. If you have any other audio file, you must convert it to .ogg and .wav). You can download and play it, as well as check out some other games developed at other GGJ events [at my GGJ profile](https://globalgamejam.org/users/velvetrage).
 
 ## [2015] Devastitans
 
-<a href="https://youtu.be/fNfCZitzqCA" class="image left"><img src="{{ "/images/ssdevas.png" | absolute_url }}" alt="" /></a>
+<a href="https://youtu.be/fNfCZitzqCA" class="image left" style="overflow:visible"><img src="{{ "/images/ssdevas.png" | absolute_url }}" alt="" /></a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae arcu ac ligula eleifend laoreet vitae eget libero. Cras at ante dui. Curabitur placerat congue nunc, sit amet faucibus lectus suscipit in. Aliquam accumsan gravida aliquam. Sed at ex scelerisque, sodales lorem ac, sollicitudin mauris. Nullam vel dictum libero, a pellentesque augue. Etiam viverra sapien ac erat laoreet faucibus ac sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ullamcorper consequat metus, fermentum tempus magna tincidunt ut. Nullam erat diam, vestibulum eu orci nec, rutrum eleifend lectus. Integer volutpat ultricies egestas. Donec vitae urna ac turpis lacinia vestibulum. Proin eget justo enim. Quisque vitae magna dictum, volutpat neque eu, placerat nisl.
+Devastitans was a 2D fighting game implemented using Unity (text in progress)
 
-<!-- ### Content is Imortant
+<!-- ### Content is Important
 <div class="box">
   <p>
   In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
   </p>
 </div> -->
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<!-- <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information. -->
