@@ -50,7 +50,7 @@ sitemap:
 								<header class="major">
 									<h2>About me</h2>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/my-img.JPG" | absolute_url }}" alt="" /></a>
+								<a href="" class="image main"><img src="{{ "/images/my-img.JPG" | absolute_url }}" alt="" /></a>
                 				<p>Bachelor in Computer Science (2017) and Master in Informatics (2020) by Federal University of Paraíba (UFPB), curious and passionate about learning software development in games, mobile and web applications with great design. Most of my previous experience is with game development and prototyping using various engines such as Unity, GameMaker, RPG Maker XP and Construct2.</p>
                 				<p>I've Started learning to develop small game prototypes since 2009 using smaller scale engines such as RMXP and I've also been participating in events such as Global Game Jam. I'm always thriving to improve myself by pursuing new skills such as art, music and project management, and currently I'm exploring the world of mobile and web development technologies such as React Native, for example.</p>
                 				<p>Over the last couple years, I worked in a couple of Android game projects at some research laboratories at UFPB such as the Group of Applied Computational Intelligence (GICA), the Laboratory of Ubiquitous and Mobile Computing (LUMO) and the Laboratory of Technologies for Virtual Teaching and Statistics (LabTEVE).</p>
@@ -60,8 +60,8 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+                				{% for post in site.posts limit:3 %}
+                					{% assign mod3 = forloop.index | modulo: 3 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -73,7 +73,7 @@ sitemap:
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
-				  {% if mod3 == 0 %}
+				  					{% if mod3 == 0 %}
 				  
                   				<article>
   									<header>
@@ -81,8 +81,8 @@ sitemap:
   									</header>
 
   								</article>
-                  {% endif %}
-                {% endfor %}
+                  					{% endif %}
+                				{% endfor %}
 
 							</section>
 
