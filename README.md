@@ -1,11 +1,7 @@
-# Massively
-> This is Massively, a text-heavy, article-oriented design built around a huge background
-image.
+# Thiago's portfolio page
+This is the git repository of my portfolio page. You can check it out [here](tvc95.github.io). Big thanks to HTML5UP for the [Massively Jekyll Theme](https://iwiedenm.github.io/jekyll-theme-massively/), used as a template for this website.
 
-See a preview of the Massively Jekyll Theme here: [https://iwiedenm.github.io/jekyll-theme-massively/](https://iwiedenm.github.io/jekyll-theme-massively/). <br>
-Massively was originally designed by HTML5UP and Jekyll was integrated by [JekyllUp: Jekyll Themes](https://jekyllup.com)
-
-## How to Use This Theme
+<!-- ## How to Use This Theme
 Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
 in the site source. This port is of the second type. Concretely, it means that you
 can simply grab the [zip][zip] or clone this repository, run `bundle install`
@@ -71,4 +67,4 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Skel (skel.io)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
-```
+``` -->
