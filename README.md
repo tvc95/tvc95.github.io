@@ -1,5 +1,7 @@
 # Thiago's portfolio page
-This is the git repository of my portfolio page. You can check it out [here](tvc95.github.io). Big thanks to HTML5UP for the [Massively Jekyll Theme](https://iwiedenm.github.io/jekyll-theme-massively/), used as a template for this website.
+This is the git repository of my portfolio page. You can check it out [here](https://tvc95.github.io). Big thanks to HTML5UP for the [Massively Jekyll Theme](https://iwiedenm.github.io/jekyll-theme-massively/), used as a template for this website.
+
+![](https://img.shields.io/github/stars/tvc95/tvc95.github.io) ![](https://img.shields.io/github/forks/tvc95/tvc95.github.io) ![](https://img.shields.io/github/tag/tvc95/tvc95.github.io) ![](https://img.shields.io/github/issues/tvc95/tvc95.github.io) ![](https://img.shields.io/github/license/tvc95/tvc95.github.io)
 
 <!-- ## How to Use This Theme
 Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
