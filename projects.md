@@ -11,6 +11,12 @@ sitemap:
 
 <i style="text-align:center">Check out some of the projects I've worked on below</i>
 
+## [2020] Pokédex (in development)
+
+<a href="https://youtu.be/zIbtUnBHo3Q" class="image left" style="overflow:visible"><img src="{{ "/images/pkdex-web.png" | absolute_url }}" alt="" /></a>
+
+This is one of my first personal website projects, created for learning purposes. This Pokédex website was made from scratch, starting from the UI, developed using Figma. The idea was to develop an intuitive and modern Pokédex website that could show the main information of a Pokémon and provide an engaging and user-friendly experience. As for the website, it was used Javascript and other frameworks such as Bootstrap/MDBootstrap. It is still in development, but you can find out more [here](link).
+
 ## [2019] Caixa de Pandora - VR edition (in development)
 
 <span class="image left"><img src="{{ "/images/sscaixarv.png" | absolute_url }}" alt="" /></span>
